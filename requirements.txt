@@ -1,3 +1,6 @@
 sentencepiece==0.1.98
 streamlit==1.20.0
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
 transformers==4.28.1
