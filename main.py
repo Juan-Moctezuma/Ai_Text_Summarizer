@@ -1,5 +1,6 @@
 ######### PART 1 - Importing Libraries
 import streamlit as st
+import sentencepiece
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer # Pegasus Method
 
 ######### PART 2 - SET UP MODELS
